@@ -34,3 +34,5 @@ python generate_submission.py
 Les données nécessaires sont :
 - `y_train_final.csv` : Données d'entraînement (cible)
 - `y_sample_final.csv` : Exemple de format de soumission
+## Auteur 
+Oumar Abdramane ALLAWAN
