@@ -27,6 +27,7 @@ ENV/
 
 # Fichiers de données
 .data/
+!data/*.csv
 *.csv
 
 # Modèles sauvegardés
